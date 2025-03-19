@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About Me  
 
-Welcome to my blog. I’m a **physics major at York University, Canada**, deeply interested in **gravity-electromagnetic unification**, **cold atom physics**, and **biophotonics**. My current work involves **rubidium atom trapping techniques** and exploring **light-matter interactions**.  
+Welcome to my blog. I’m a **physics major at York University, Canada**, deeply interested in **gravity-electromagnetic unification**, **cold atom physics**, and **biophotonics**. My current course involves **rubidium atom trapping techniques** and exploring **light-matter interactions**.  
 
 Beyond physics, I have a strong passion for **coding**, primarily using **Python, MATLAB, LaTeX, and Markdown** for simulations, data analysis, and research documentation.  
 
