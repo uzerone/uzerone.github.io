@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## About Me  
 
-### More Information
+Welcome to my blog. I’m a **physics major at York University, Canada**, deeply interested in **gravity-electromagnetic unification**, **cold atom physics**, and **biophotonics**. My current work involves **rubidium atom trapping techniques** and exploring **light-matter interactions**.  
 
-A place to include any other types of information that you'd like to include about yourself.
+Beyond physics, I have a strong passion for **coding**, primarily using **Python, MATLAB, LaTeX, and Markdown** for simulations, data analysis, and research documentation.  
 
-### Contact me
+Outside of science, I’m also a **songwriter**. I’ve collaborated with **talented artists and K-pop groups**, blending physics and creativity in unique ways.  
 
-[email@domain.com](mailto:email@domain.com)
+This blog is where I share insights from my research, programming experiments, and thoughts on the intersection of **science, technology, and music**.  
+
+## Contact Me  
+
+📧 [jin811@my.yorku.ca](mailto:jin811@my.yorku.ca)  
